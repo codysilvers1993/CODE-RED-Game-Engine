@@ -20,8 +20,6 @@ GraphicsEngine::~GraphicsEngine()
 }
 
 
-
-
 // when the graphics engine is init(), an array is created that logs the hardware that is available to it.
 // then a macro called ARRAYSIZE computes the size of this array
 // then 
@@ -56,15 +54,9 @@ bool GraphicsEngine::init()
 	};
 
 
-
-
-
-
-
-
 // needs work do not understand code
 // I think it means, that if there exists a driver type, then execute the below code.
-// the code below the for statement specifies the device created and the parameter it must take in.
+// the code below is a for statement that specifies to create a 'device' and the parameters it must take in.
 
 	for(UINT driver_type_index = 0; driver_type_index < num_driver_types;)
 	{
