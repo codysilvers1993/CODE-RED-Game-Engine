@@ -1,4 +1,0 @@
-﻿  Window.cpp
-C:\Users\CodyS\source\repos\BS GAME ENGINE\BS GAME ENGINE\Window.cpp(38,30): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\CodyS\source\repos\BS GAME ENGINE\BS GAME ENGINE\Window.cpp(56,24): error C2084: function 'bool Window::Release(void)' already has a body
-C:\Users\CodyS\source\repos\BS GAME ENGINE\BS GAME ENGINE\Window.h(13): message : see previous definition of 'Release'
