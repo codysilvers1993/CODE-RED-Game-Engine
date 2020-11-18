@@ -14,5 +14,5 @@ This is an open-source(in development) 3-D game engine for rendering 3-D envirom
 - World and Scene Graph. (Camera)
 - Physics Engine implementation
 - Tools
-- level Editor
+- Level Editor
 - Asset importers.
